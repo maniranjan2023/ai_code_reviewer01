@@ -1,0 +1,4 @@
+// a simple code reviewer app
+// we will have a two column layout
+// where we can write code
+// ai will give review on our code =>PR review
