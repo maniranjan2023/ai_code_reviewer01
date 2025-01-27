@@ -1,3 +1,14 @@
+AI Code Reviewer
+AI Code Reviewer is a tool designed to automate the code review process using advanced AI models. It analyzes code changes, detects potential issues, and provides suggestions to improve code quality.
+
+Features
+Automated Code Analysis: Automatically reviews code changes to identify potential errors and suggest improvements.
+Multi-Language Support: Supports various programming languages, including Python, JavaScript, Java, and C++.
+AI-Powered Insights: Leverages AI models to provide intelligent feedback on code quality and adherence to best practices.
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
